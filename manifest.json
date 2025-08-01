@@ -1,0 +1,21 @@
+{
+  "name": "Macro Game Tracker",
+  "short_name": "Macros",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#34d399",
+  "description": "App para calcular macros diarios y registrar comidas de forma divertida",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
